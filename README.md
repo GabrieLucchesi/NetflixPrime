@@ -1,6 +1,5 @@
-Trabalho para a disciplina Desenvolvimento de Interfaces Web.
-Objetivo: Fazer um portal de filmes que fosse responsivo.
+O trabalho tinha como ojetivo fazer um portal de filmes que fosse responsivo.
 
 Link: https://gabrielucchesi.github.io/PortalDeFilmes/
 
-PucMinas - 1º Período
+Desenvolvimento de Interfaces Web PucMinas - 1º Período
