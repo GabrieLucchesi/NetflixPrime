@@ -1,0 +1,208 @@
+.html, body {
+  	background-color: black;
+	font-family: Arial;
+	color:white;
+	padding: 1%;
+	align-items: center;
+	text-align: center;
+	align-self: center;
+}
+.checked {
+  color: orange;
+}
+.html{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Cabeçalho + menu*/
+.cabecalho{
+  	background-color: rgb(41, 41, 41);
+  	margin-bottom: 3px;
+    margin-top: -1%
+}
+.menu_area{
+	font-size: 15px;
+	margin-top: 13px;
+}
+.menu_area nav a{
+	background-color: rgb(35, 35, 35);
+	color:white;
+}
+.menu_area nav a:hover{
+	background-color: rgb(25, 25, 25) !important;
+}
+.logo{
+	font-size: 30px;
+	padding: 5px;
+	text-align: center;
+}
+.buscar{
+    padding: 3px;
+}
+
+/*Lançamentos*/
+.titulo_lan{
+	background-color: rgb(41, 41, 41);
+	margin-top: 1%;
+	padding: 1%;
+	margin-bottom: 15px;
+	font-size: 35px;
+	text-align: center;
+}
+.titulo_lan h1{
+    margin-top: -10px;
+}
+.carocel{
+	padding: 0px;
+}
+.trailer{
+	float: left;
+    padding: 3px;
+}
+.titulo_lan b{
+    font-size: 14px;
+}
+.text h1{
+    font-size: 30px;
+}
+.text{
+    float: right;
+    text-align: left;
+	font-size: 37%;
+    padding: 3px;
+}
+.controlador{
+    margin-top: 25px;
+}
+
+/*Em Destaque */
+.destaque{
+    margin: 0px;
+}
+.titulo_des{
+    float: left;
+    text-align: left;
+}
+.dropdown{
+    padding: 1px;
+    float: right;
+    text-align: right;
+}
+.card-des{
+	background-color: rgb(41, 41, 41);
+	padding: 5px;
+    margin: 1px;
+    max-width: 250px;
+	margin-bottom: 5px;
+    position:relative;
+}
+.card-des:hover{
+	background-color: rgb(255, 255, 255) !important;
+	padding: 1px;
+    margin: 1px
+}
+
+/*Ultimas Avaliaçoes*/
+.avaliacoes{
+    margin-bottom: 5px;
+}
+.titulo_ava{
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.card{
+    margin-bottom: 5px;
+    background-color: grey;
+}
+.profile-cardva-2 .cardva-body{
+    position:relative;
+}
+.profile-cardva-2 .profile {
+  border-radius: 50%;
+  position: absolute;
+  top: -30px;
+  float: left;
+  max-width: 75px;
+  border: 3px solid rgba(255, 255, 255, 1);
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+}
+.texto{
+    float: right;
+    text-align: left;
+}
+.profile-cardva-2 h5{
+    font-weight:600;
+    color:black;
+}
+.profile-cardva-2 .cardva-text{
+    font-weight:300;
+    font-size:15px;
+}
+
+/*Entrvistas */
+.mak{
+    background-color: rgb(41, 41, 41);
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.carden-text p{
+    text-align: left;
+}
+
+/*Novidade*/
+.nov{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    text-align: left;
+}
+.nov h2{
+    font-size: 25px;
+}
+.nov p{
+    font-size: 14px;
+}
+.card-nov{
+    margin-bottom: 3px;
+}
+
+/*Sobre*/
+.sob{
+    margin: 0px;
+    float: right;
+    background-color: rgb(41, 41, 41);
+    text-align: left;
+    font-size: 15px;
+}
+.fa-instagram{
+    color: white; 
+
+}
+.btn-circle{
+    color: white;
+   
+}
+.insta a{
+    font-size: 20px;
+    color: white; 
+}
+
+
+/*Rodapé*/
+.rodape{
+    margin-top: 3px;
+    background-color: rgb(41, 41, 41);
+}
+.text-rod{
+    margin-top: 3%;
+    float: left;
+}
+.img-rod{
+    float: right;
+    font-size: 30px;
+}
+.logo-site{
+    padding: 3px;
+}
